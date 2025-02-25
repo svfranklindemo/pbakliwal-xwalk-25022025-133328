@@ -23,5 +23,6 @@
 
     .columns > div > div:first-of-type {
         margin-left: unset;
+        max-width: 300px;
     }
 }

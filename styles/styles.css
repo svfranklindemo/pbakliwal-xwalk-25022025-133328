@@ -380,3 +380,16 @@ main .section[data-section-status='initialized'] {
 .hlx-preview-overlay .hlx-badge .hlx-popup * {
   font-size: 14px;
 }
+
+/* centerpoint css*/
+.section.tabs-container{
+  display: none;
+}
+
+.columns.block.columns-2-cols{
+  img{
+    border-radius: 0;
+    width: 248px;
+    height: auto;
+  }
+}
